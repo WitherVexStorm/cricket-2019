@@ -1,0 +1,11 @@
+Zak Crackley-Batsman
+Ben Duckett-Batsman
+Joe Root-Batsman
+Harry Brook-Batsman
+Ben Stokes-Batsman
+Jonny Bairstow-AllRounder
+Moeen Ali-AllRounder
+Chris Woakes-Bowler
+Mark Wood-Bowler
+Stuart Broad-Bowler
+James Anderson-Bowler

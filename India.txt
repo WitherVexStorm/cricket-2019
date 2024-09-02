@@ -1,0 +1,11 @@
+Rohit Sharma-Batsman
+Shubhman Gill-Batsman
+Virat Kohli-Batsman
+Shreyas Iyer-Batsman
+KL Rahul-Batsman
+Hardik Pandya-AllRounder
+Ravindra Jadeja-AllRounder
+Ravichandran Ashwin-Bowler
+Jasprit Bumrah-Bowler
+Mohammed Shami-Bowler
+Kuldeep Yadav-Bowler

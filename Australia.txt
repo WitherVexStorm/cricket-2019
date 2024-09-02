@@ -1,0 +1,11 @@
+David Warner-Batsman
+Usman Khawaja-Batsman
+Marnus Labuschagne-Batsman
+Steve Smith-Batsman
+Travis Head-Batsman
+Cameron Green-AllRounder
+Alex Carey-AllRounder
+Pat Cummins-Bowler
+Mitchell Starc-Bowler
+Nathan Lyon-Bowler
+Josh Hazlewood-Bowler
