@@ -60,13 +60,13 @@ Already provided teams:
 
 ---
 
-See `testSeries` function in `main.cpp`.
+See [`testSeries`](https://github.com/WitherVexStorm/cricket-2019/blob/026ba8ee8f40a6e6405baf304e56202bc4d6f0e2/main.cpp#L1072) function in `main.cpp`.
 
 ### Setup a Tournament
 
 ---
 
-See `testTournament` function in `main.cpp`.
+See [`testTournament`](https://github.com/WitherVexStorm/cricket-2019/blob/026ba8ee8f40a6e6405baf304e56202bc4d6f0e2/main.cpp#L1090) function in `main.cpp`.
 
 ## Contact Me
 
