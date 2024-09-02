@@ -58,3 +58,8 @@ See `testSeries` function in `main.cpp`.
 ---
 
 See `testTournament` function in `main.cpp`.
+
+## Contact Me
+---
+
+Email: jaideep.dev21@gmail.com
